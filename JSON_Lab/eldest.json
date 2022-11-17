@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "CCRYeYzEePQC",
+      "etag": "+1yxn9jBhGQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CCRYeYzEePQC",
+      "volumeInfo": {
+        "title": "Eldest",
+        "authors": [
+          "Christopher Paolini"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2006",
+        "description": "Darkness falls . . . Despair abounds . . . Evil reigns . . . Eragon and his dragon, Saphira, have just saved the rebel state from destruction by the mighty forces of King Galbatorix, cruel ruler of the Empire. Now Eragon must travel to Ellesm�ra, land of the elves, for further training in magic and swordsmanship, the vital skills of the Dragon Rider. It is the journey of a lifetime, filled with awe-inspiring new places and people, each day a fresh adventure. But chaos and betrayal plague him at every turn, and Eragon isn't sure whom he can trust. Meanwhile, his cousin Roran must fight a new battle back home in Carvahall - one that puts Eragon in even graver danger. Will the king's dark hand strangle all resistance? Eragon may not escape with even his life . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780552554107"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0552554103"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 708,
+        "printType": "BOOK",
+        "categories": [
+          "Dragons"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 35,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CCRYeYzEePQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CCRYeYzEePQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=CCRYeYzEePQC&dq=eldest+inauthor:paolini+isbn:9780552554107&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=CCRYeYzEePQC&dq=eldest+inauthor:paolini+isbn:9780552554107&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eldest.html?hl=&id=CCRYeYzEePQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CCRYeYzEePQC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Darkness falls ."
+      }
+    }
+  ]
+}

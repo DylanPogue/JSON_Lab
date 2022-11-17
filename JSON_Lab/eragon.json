@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "EI9gQPw29aYC",
+      "etag": "Ol2lwllBEeY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EI9gQPw29aYC",
+      "volumeInfo": {
+        "title": "Eragon",
+        "authors": [
+          "Christopher Paolini"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2005",
+        "description": "In Aagaesia, a fifteen-year-old boy of unknown lineage called Eragon finds a mysterious stone that weaves his life into an intricate tapestry of destiny, magic, and power, peopled with dragons, elves, and monsters.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780552552097"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0552552097"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "categories": [
+          "Children's stories"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.962.7.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EI9gQPw29aYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EI9gQPw29aYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EI9gQPw29aYC&dq=eragon+inauthor:paolini+isbn:9780552552097&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EI9gQPw29aYC&dq=eragon+inauthor:paolini+isbn:9780552552097&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eragon.html?hl=&id=EI9gQPw29aYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EI9gQPw29aYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One boy . . . One dragon . . . A world of adventure. When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter."
+      }
+    }
+  ]
+}

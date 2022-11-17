@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "tbVIPgAACAAJ",
+      "etag": "nDNOBb+zEmk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tbVIPgAACAAJ",
+      "volumeInfo": {
+        "title": "Fablehaven",
+        "authors": [
+          "Brandon Mull"
+        ],
+        "publishedDate": "2006",
+        "description": "When Kendra and Seth go to stay at their grandparents' estate, they discover that it is a sanctuary for magical creatures and that a battle between good and evil is looming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1590385810"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590385814"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 359,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tbVIPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tbVIPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull+isbn:9781590385814&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tbVIPgAACAAJ&dq=fablehaven+inauthor:mull+isbn:9781590385814&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fablehaven.html?hl=&id=tbVIPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tbVIPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When Kendra and Seth go to stay at their grandparents&#39; estate, they discover that it is a sanctuary for magical creatures and that a battle between good and evil is looming."
+      }
+    }
+  ]
+}
